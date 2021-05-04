@@ -1,0 +1,1 @@
+java -jar target\orders_parser.jar files\orders1.csv files\orders2.json files\orders3.json files\orders4.csv
